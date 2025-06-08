@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+fwm/
+__pycache__/
+docs/
+plots/
+.env
+*.pyc
